@@ -1,0 +1,30 @@
+2025-11-14 19:38:54,380 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-11-14 19:38:54,395 INFO o.a.j.JMeter: Loading user properties from: C:\Users\Administrador\Documents\apache-jmeter-5.6.3\bin\user.properties
+2025-11-14 19:38:54,395 INFO o.a.j.JMeter: Loading system properties from: C:\Users\Administrador\Documents\apache-jmeter-5.6.3\bin\system.properties
+2025-11-14 19:38:54,395 INFO o.a.j.JMeter: Loading additional properties from: backend/tests/jmeter/props/local.properties
+2025-11-14 19:38:54,406 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-11-14 19:38:54,406 INFO o.a.j.JMeter: Version 5.6.3
+2025-11-14 19:38:54,406 INFO o.a.j.JMeter: java.version=25.0.1
+2025-11-14 19:38:54,406 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2025-11-14 19:38:54,406 INFO o.a.j.JMeter: os.name=Windows 11
+2025-11-14 19:38:54,406 INFO o.a.j.JMeter: os.arch=amd64
+2025-11-14 19:38:54,406 INFO o.a.j.JMeter: os.version=10.0
+2025-11-14 19:38:54,406 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-11-14 19:38:54,406 INFO o.a.j.JMeter: java.awt.headless=true
+2025-11-14 19:38:54,406 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-11-14 19:38:54,406 INFO o.a.j.JMeter: Available Processors =12
+2025-11-14 19:38:54,419 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-11-14 19:38:54,419 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-11-14 19:38:54,420 INFO o.a.j.JMeter: JMeterHome=C:\Users\Administrador\Documents\apache-jmeter-5.6.3
+2025-11-14 19:38:54,420 INFO o.a.j.JMeter: user.dir  =C:\Users\williame\Documents\Testes-Software\teste-software-univas
+2025-11-14 19:38:54,420 INFO o.a.j.JMeter: PWD       =C:\Users\williame\Documents\Testes-Software\teste-software-univas
+2025-11-14 19:38:54,422 INFO o.a.j.JMeter: IP: 192.168.191.179 Name: UNI-LABF-7402 FullName: host.docker.internal
+2025-11-14 19:38:54,429 ERROR o.a.j.JMeter: An error occurred: 
+java.lang.IllegalArgumentException: Cannot write to 'C:\Users\williame\Documents\Testes-Software\teste-software-univas\backend\tests\jmeter\reports\tasks' as folder is not empty
+	at org.apache.jorphan.util.JOrphanUtils.canSafelyWriteToFolder(JOrphanUtils.java:664) ~[jorphan.jar:5.6.3]
+	at org.apache.jorphan.util.JOrphanUtils.canSafelyWriteToFolder(JOrphanUtils.java:620) ~[jorphan.jar:5.6.3]
+	at org.apache.jmeter.JMeter.extractAndSetReportOutputFolder(JMeter.java:542) ~[ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.JMeter.start(JMeter.java:492) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:259) [ApacheJMeter.jar:5.6.3]
