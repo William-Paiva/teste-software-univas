@@ -27,108 +27,132 @@
             - columnheader "Criado em" [ref=e23]
             - columnheader "Ações" [ref=e24]
         - rowgroup [ref=e25]:
-          - row "Aluno E2E aluno.1764111721042@ex.com 0 25/11/2025 Editar Excluir" [ref=e26]:
+          - row "Aluno E2E aluno.1764288599877@ex.com 0 27/11/2025 Editar Excluir" [ref=e26]:
             - cell "Aluno E2E" [ref=e27]
-            - cell "aluno.1764111721042@ex.com" [ref=e28]
+            - cell "aluno.1764288599877@ex.com" [ref=e28]
             - cell "0" [ref=e29]
-            - cell "25/11/2025" [ref=e30]
+            - cell "27/11/2025" [ref=e30]
             - cell "Editar Excluir" [ref=e31]:
               - button "Editar" [ref=e32] [cursor=pointer]
               - button "Excluir" [ref=e33] [cursor=pointer]
-          - row "Usuário Deletável delete.1764111651879@ex.com 0 25/11/2025 Editar Excluir" [ref=e34]:
-            - cell "Usuário Deletável" [ref=e35]
-            - cell "delete.1764111651879@ex.com" [ref=e36]
-            - cell "0" [ref=e37]
-            - cell "25/11/2025" [ref=e38]
+          - row "Usuário Editado editado.1764288601077@ex.com 3 27/11/2025 Editar Excluir" [ref=e34]:
+            - cell "Usuário Editado" [ref=e35]
+            - cell "editado.1764288601077@ex.com" [ref=e36]
+            - cell "3" [ref=e37]
+            - cell "27/11/2025" [ref=e38]
             - cell "Editar Excluir" [ref=e39]:
               - button "Editar" [ref=e40] [cursor=pointer]
               - button "Excluir" [ref=e41] [cursor=pointer]
-          - row "Aluno E2E aluno.1764111644533@ex.com 0 25/11/2025 Editar Excluir" [ref=e42]:
+          - row "Aluno E2E aluno.1764111776790@ex.com 0 25/11/2025 Editar Excluir" [ref=e42]:
             - cell "Aluno E2E" [ref=e43]
-            - cell "aluno.1764111644533@ex.com" [ref=e44]
+            - cell "aluno.1764111776790@ex.com" [ref=e44]
             - cell "0" [ref=e45]
             - cell "25/11/2025" [ref=e46]
             - cell "Editar Excluir" [ref=e47]:
               - button "Editar" [ref=e48] [cursor=pointer]
               - button "Excluir" [ref=e49] [cursor=pointer]
-          - row "Usuário Deletável delete.1764111630016@ex.com 0 25/11/2025 Editar Excluir" [ref=e50]:
-            - cell "Usuário Deletável" [ref=e51]
-            - cell "delete.1764111630016@ex.com" [ref=e52]
+          - row "Aluno E2E aluno.1764111721042@ex.com 0 25/11/2025 Editar Excluir" [ref=e50]:
+            - cell "Aluno E2E" [ref=e51]
+            - cell "aluno.1764111721042@ex.com" [ref=e52]
             - cell "0" [ref=e53]
             - cell "25/11/2025" [ref=e54]
             - cell "Editar Excluir" [ref=e55]:
               - button "Editar" [ref=e56] [cursor=pointer]
               - button "Excluir" [ref=e57] [cursor=pointer]
-          - row "Aluno E2E aluno.1764111622980@ex.com 0 25/11/2025 Editar Excluir" [ref=e58]:
-            - cell "Aluno E2E" [ref=e59]
-            - cell "aluno.1764111622980@ex.com" [ref=e60]
+          - row "Usuário Deletável delete.1764111651879@ex.com 0 25/11/2025 Editar Excluir" [ref=e58]:
+            - cell "Usuário Deletável" [ref=e59]
+            - cell "delete.1764111651879@ex.com" [ref=e60]
             - cell "0" [ref=e61]
             - cell "25/11/2025" [ref=e62]
             - cell "Editar Excluir" [ref=e63]:
               - button "Editar" [ref=e64] [cursor=pointer]
               - button "Excluir" [ref=e65] [cursor=pointer]
-          - row "Aluno E2E aluno.1764111572500@ex.com 0 25/11/2025 Editar Excluir" [ref=e66]:
+          - row "Aluno E2E aluno.1764111644533@ex.com 0 25/11/2025 Editar Excluir" [ref=e66]:
             - cell "Aluno E2E" [ref=e67]
-            - cell "aluno.1764111572500@ex.com" [ref=e68]
+            - cell "aluno.1764111644533@ex.com" [ref=e68]
             - cell "0" [ref=e69]
             - cell "25/11/2025" [ref=e70]
             - cell "Editar Excluir" [ref=e71]:
               - button "Editar" [ref=e72] [cursor=pointer]
               - button "Excluir" [ref=e73] [cursor=pointer]
-          - row "Aluno E2E aluno.1764111349467@ex.com 0 25/11/2025 Editar Excluir" [ref=e74]:
-            - cell "Aluno E2E" [ref=e75]
-            - cell "aluno.1764111349467@ex.com" [ref=e76]
+          - row "Usuário Deletável delete.1764111630016@ex.com 0 25/11/2025 Editar Excluir" [ref=e74]:
+            - cell "Usuário Deletável" [ref=e75]
+            - cell "delete.1764111630016@ex.com" [ref=e76]
             - cell "0" [ref=e77]
             - cell "25/11/2025" [ref=e78]
             - cell "Editar Excluir" [ref=e79]:
               - button "Editar" [ref=e80] [cursor=pointer]
               - button "Excluir" [ref=e81] [cursor=pointer]
-          - row "Usuário Deletável delete.1764111108579@ex.com 0 25/11/2025 Editar Excluir" [ref=e82]:
-            - cell "Usuário Deletável" [ref=e83]
-            - cell "delete.1764111108579@ex.com" [ref=e84]
+          - row "Aluno E2E aluno.1764111622980@ex.com 0 25/11/2025 Editar Excluir" [ref=e82]:
+            - cell "Aluno E2E" [ref=e83]
+            - cell "aluno.1764111622980@ex.com" [ref=e84]
             - cell "0" [ref=e85]
             - cell "25/11/2025" [ref=e86]
             - cell "Editar Excluir" [ref=e87]:
               - button "Editar" [ref=e88] [cursor=pointer]
               - button "Excluir" [ref=e89] [cursor=pointer]
-          - row "Aluno E2E aluno.1764111076936@ex.com 0 25/11/2025 Editar Excluir" [ref=e90]:
+          - row "Aluno E2E aluno.1764111572500@ex.com 0 25/11/2025 Editar Excluir" [ref=e90]:
             - cell "Aluno E2E" [ref=e91]
-            - cell "aluno.1764111076936@ex.com" [ref=e92]
+            - cell "aluno.1764111572500@ex.com" [ref=e92]
             - cell "0" [ref=e93]
             - cell "25/11/2025" [ref=e94]
             - cell "Editar Excluir" [ref=e95]:
               - button "Editar" [ref=e96] [cursor=pointer]
               - button "Excluir" [ref=e97] [cursor=pointer]
-          - row "Aluno E2E aluno.1764111004217@ex.com 0 25/11/2025 Editar Excluir" [ref=e98]:
+          - row "Aluno E2E aluno.1764111349467@ex.com 0 25/11/2025 Editar Excluir" [ref=e98]:
             - cell "Aluno E2E" [ref=e99]
-            - cell "aluno.1764111004217@ex.com" [ref=e100]
+            - cell "aluno.1764111349467@ex.com" [ref=e100]
             - cell "0" [ref=e101]
             - cell "25/11/2025" [ref=e102]
             - cell "Editar Excluir" [ref=e103]:
               - button "Editar" [ref=e104] [cursor=pointer]
               - button "Excluir" [ref=e105] [cursor=pointer]
-          - row "Aluno E2E aluno.1764110696304@ex.com 0 25/11/2025 Editar Excluir" [ref=e106]:
-            - cell "Aluno E2E" [ref=e107]
-            - cell "aluno.1764110696304@ex.com" [ref=e108]
+          - row "Usuário Deletável delete.1764111108579@ex.com 0 25/11/2025 Editar Excluir" [ref=e106]:
+            - cell "Usuário Deletável" [ref=e107]
+            - cell "delete.1764111108579@ex.com" [ref=e108]
             - cell "0" [ref=e109]
             - cell "25/11/2025" [ref=e110]
             - cell "Editar Excluir" [ref=e111]:
               - button "Editar" [ref=e112] [cursor=pointer]
               - button "Excluir" [ref=e113] [cursor=pointer]
-          - row "Jane Smith jane.smith@example.com 4 18/11/2025 Editar Excluir" [ref=e114]:
-            - cell "Jane Smith" [ref=e115]
-            - cell "jane.smith@example.com" [ref=e116]
-            - cell "4" [ref=e117]
-            - cell "18/11/2025" [ref=e118]
+          - row "Aluno E2E aluno.1764111076936@ex.com 0 25/11/2025 Editar Excluir" [ref=e114]:
+            - cell "Aluno E2E" [ref=e115]
+            - cell "aluno.1764111076936@ex.com" [ref=e116]
+            - cell "0" [ref=e117]
+            - cell "25/11/2025" [ref=e118]
             - cell "Editar Excluir" [ref=e119]:
               - button "Editar" [ref=e120] [cursor=pointer]
               - button "Excluir" [ref=e121] [cursor=pointer]
-          - row "Usuário Editado editado.1764111573489@ex.com 6 18/11/2025 Editar Excluir" [ref=e122]:
-            - cell "Usuário Editado" [ref=e123]
-            - cell "editado.1764111573489@ex.com" [ref=e124]
-            - cell "6" [ref=e125]
-            - cell "18/11/2025" [ref=e126]
+          - row "Aluno E2E aluno.1764111004217@ex.com 0 25/11/2025 Editar Excluir" [ref=e122]:
+            - cell "Aluno E2E" [ref=e123]
+            - cell "aluno.1764111004217@ex.com" [ref=e124]
+            - cell "0" [ref=e125]
+            - cell "25/11/2025" [ref=e126]
             - cell "Editar Excluir" [ref=e127]:
               - button "Editar" [ref=e128] [cursor=pointer]
               - button "Excluir" [ref=e129] [cursor=pointer]
+          - row "Aluno E2E aluno.1764110696304@ex.com 0 25/11/2025 Editar Excluir" [ref=e130]:
+            - cell "Aluno E2E" [ref=e131]
+            - cell "aluno.1764110696304@ex.com" [ref=e132]
+            - cell "0" [ref=e133]
+            - cell "25/11/2025" [ref=e134]
+            - cell "Editar Excluir" [ref=e135]:
+              - button "Editar" [ref=e136] [cursor=pointer]
+              - button "Excluir" [ref=e137] [cursor=pointer]
+          - row "Jane Smith jane.smith@example.com 6 18/11/2025 Editar Excluir" [ref=e138]:
+            - cell "Jane Smith" [ref=e139]
+            - cell "jane.smith@example.com" [ref=e140]
+            - cell "6" [ref=e141]
+            - cell "18/11/2025" [ref=e142]
+            - cell "Editar Excluir" [ref=e143]:
+              - button "Editar" [ref=e144] [cursor=pointer]
+              - button "Excluir" [ref=e145] [cursor=pointer]
+          - row "Usuário Editado editado.1764111573489@ex.com 6 18/11/2025 Editar Excluir" [ref=e146]:
+            - cell "Usuário Editado" [ref=e147]
+            - cell "editado.1764111573489@ex.com" [ref=e148]
+            - cell "6" [ref=e149]
+            - cell "18/11/2025" [ref=e150]
+            - cell "Editar Excluir" [ref=e151]:
+              - button "Editar" [ref=e152] [cursor=pointer]
+              - button "Excluir" [ref=e153] [cursor=pointer]
 ```
